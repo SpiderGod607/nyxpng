@@ -22,7 +22,7 @@ Each of these functionalities is accessible via a subcommand in the NyxPNG CLI, 
 
 1. **Clone the repository:** Clone the NyxPNG repository from GitHub to your local machine.  
    ```bash
-   git clone https://github.com/yourusername/NyxPNG.git
+   git clone https://github.com/SpiderGod607/NyxPNG.git
    ```  
 2. **Change directory:** Navigate into the project folder.  
    ```bash
