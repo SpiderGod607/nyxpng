@@ -22,11 +22,11 @@ Each of these functionalities is accessible via a subcommand in the NyxPNG CLI, 
 
 1. **Clone the repository:** Clone the NyxPNG repository from GitHub to your local machine.  
    ```bash
-   git clone https://github.com/SpiderGod607/NyxPNG.git
+   git clone https://github.com/SpiderGod607/nyxpng.git
    ```  
 2. **Change directory:** Navigate into the project folder.  
    ```bash
-   cd NyxPNG
+   cd nyxpng
    ```  
 3. **Build the project:** Use Cargo to compile NyxPNG in release mode.  
    ```bash
