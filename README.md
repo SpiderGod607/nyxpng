@@ -107,4 +107,4 @@ Below is a demonstration of NyxPNG in action. This GIF shows using the CLI to en
 
 ### Acknowledgements  
 
-This project was built by following *[PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/introduction.html)* by **Jared Niederer**. Huge thanks to the author for providing such a well-structured guide to learning Rust through an applied project.
+This project was built by following *[PNGme: An Intermediate Rust Project](https://jrdngr.github.io/pngme_book/introduction.html)* guide. Huge thanks to the author for providing such a well-structured guide to learning Rust through an applied project.
